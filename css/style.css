@@ -160,6 +160,13 @@ header .logo-link {
 }
 
 .footer .logo-link {
+  font-family: Raleway, sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17; /* 116.667% */
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+  text-decoration: none;
   color: #4d5ae5;
 }
 
