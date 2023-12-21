@@ -17,17 +17,17 @@ body {
   color: #2e2f42;
 }
 
-.navbar-links .link :focus {
+.navbar-links .link:focus {
   text-decoration: none;
   color: #404bbf;
 }
 
-.navbar-links .link :hover {
+.navbar-links .link:hover {
   text-decoration: none;
   color: #404bbf;
 }
 
-.navbar-links .link :active {
+.navbar-links .link:active {
   text-decoration: none;
   color: #404bbf;
 }
@@ -45,12 +45,12 @@ body {
   color: #434455;
 }
 
-.address-links .link :hover {
+.address-links .link:hover {
   text-decoration: none;
   color: #404bbf;
 }
 
-.address-links .link :focus {
+.address-links .link:focus {
   text-decoration: none;
   color: #404bbf;
 }
@@ -97,11 +97,11 @@ header .logo-link {
   cursor: pointer;
 }
 
-.order-button :focus {
+.order-button:focus {
   background-color: #404bbf;
 }
 
-.order-button :hover {
+.order-button:hover {
   background-color: #404bbf;
 }
 
@@ -118,6 +118,10 @@ header .logo-link {
   letter-spacing: 0.4px;
 }
 
+.benefits-section{
+  color: #2e2f42;
+}
+
 .text {
   font-size: 16px;
   line-height: 1.5; /* 150% */
@@ -127,6 +131,7 @@ header .logo-link {
 
 .team-section {
   background: #f4f4fd;
+  color: #2e2f42;
 }
 
 .section-title {
@@ -141,6 +146,10 @@ header .logo-link {
 
 .team-member {
   background: #fff;
+}
+
+.portfolio-section{
+  color:#2e2f42;
 }
 
 .portfolio-item {
